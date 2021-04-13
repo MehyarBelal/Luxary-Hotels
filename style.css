@@ -13,6 +13,7 @@
 
 .title {
   color: #5c2018;
+  text-align: center;
 }
 h4 {
   font-weight: 600;
@@ -32,7 +33,6 @@ h4 {
 }
 
 .to-do {
-  height: 20em;
   background-color: #ffffff;
 }
 
@@ -42,11 +42,7 @@ h4 {
   color: #bacceb;
 }
 
-.gallery {
-  height: 20em !important;
-}
-
 .gallery img {
   width: 100%;
-  height: 85%;
+  height: 100%;
 }
