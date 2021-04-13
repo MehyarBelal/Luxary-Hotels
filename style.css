@@ -57,3 +57,14 @@ h4 {
 .grey-bg {
   background-color: #e7ebf3;
 }
+
+.navbar-brand {
+  color: #5c2018 !important;
+  font-weight: 600;
+  font-size: 2em;
+}
+
+.nav-link {
+  color: black !important;
+  font-size: 1.1em;
+}
