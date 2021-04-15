@@ -104,3 +104,9 @@ i {
   width: 100%;
   /* The width is the width of the web page */
 }
+
+.footer {
+  height: 50px;
+  background-color: #e7ebf3;
+  padding: 50px;
+}
