@@ -81,3 +81,7 @@ h4 {
 .customers div {
   margin-bottom: 20px !important;
 }
+
+.banner {
+  padding: 5em 5em !important;
+}
