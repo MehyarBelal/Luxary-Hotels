@@ -85,3 +85,15 @@ h4 {
 .banner {
   padding: 5em 5em !important;
 }
+
+.contact {
+  text-align: center;
+}
+
+.location {
+  margin-bottom: 50px !important;
+}
+
+i {
+  color: #bacceb;
+}
