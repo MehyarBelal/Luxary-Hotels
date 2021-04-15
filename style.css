@@ -52,10 +52,19 @@ h4 {
 .card {
   margin: 0 auto !important;
   margin-top: 20px !important;
+  height: 500px;
 }
 
+.card img {
+  height: 320px;
+}
 .grey-bg {
   background-color: #e7ebf3;
+}
+
+.btn {
+  background-color: #f39c12 !important;
+  border: none !important;
 }
 
 .navbar-brand {
